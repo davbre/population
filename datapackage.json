@@ -31,6 +31,7 @@
           {
             "id": "Year",
             "type": "date",
+            "format": "yyyy",
             "fulltype": "date/year"
           },
           {
